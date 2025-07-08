@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "name": "f1-circuits-geodata",
-    "bbox": [ 0, 0, 0, 0 ],                                                                        
+    "bbox": [-115.1730265424115, -37.85390722516654, 144.9786064475169, 52.3918347073254],                                                                        
     "features": [
         {"type": "Feature", "properties":
          { "id": "au-ap-22", "country": "Australia", "location": "Melbourne", "name": "Albert Park Circuit", "variant": "current", "opened": 1953, "orientation": "clockwise", "altitude": 8.8, "first-used": 2022, "length": 5278, "turns": 14, "laps": 58
